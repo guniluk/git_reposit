@@ -1,0 +1,21 @@
+<Googling Method>
+1. 꼭 포함 글자에  “ “ 추가
+2. 검색 대상에서 제외문자 앞에 ‘-‘ 추가, 나와야 하는 문자앞에 '+' 추가
+3. 숫자범위 지정. ‘..’.  ex) 2015..2017
+4. 유사정보 검색: 단어앞 ‘~’ 추가
+5. 특정 화일타입 검색 : filetype: pdf
+6. 특정 사이트에서 검색:  site:youtube.com 검색어
+7. 검색 단어 생각안날때: 뉴턴 *이론
+8. 사전적 의미:  define:단어
+9. 제목에 포함된 키워드 찾기:  intitle:단어
+10. 본문에 포함된 키워드 찾기: intext:키워드
+11. and  or   
+12. 재목에 모두 포함검색:  allintitle:keyword1 keyword2
+13. 관련된 웹사이트 표시:  related:naver.com
+14. 웹페이지내특정단어 들어간 사이트 검색: inurl:keyword
+
+<python 검색>
+1. 영어로 검색한다
+2. 단순, 키워드로 검색 : (python 키워드 mac),  (python err메세지 mac)
+3. python keyword site:stackoverflow.com
+4. 구글 검색-사이트 여러개시 --control +click - 새로운창으로 여러개 열고 검색
